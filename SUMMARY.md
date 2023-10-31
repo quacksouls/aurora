@@ -4,3 +4,4 @@
 - [Preface](README.md)
 - [Introduction](doc/introduction.md)
 - [The Girl and the Firefly](doc/girl-and-firefly.md)
+- [The Queen of Light](doc/queen-of-light.md)
