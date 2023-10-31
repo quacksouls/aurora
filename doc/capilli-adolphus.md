@@ -23,7 +23,7 @@ Stardust x 6. Adolphus' quest line is now complete.
 
 Notable loots:
 
--   Healing Tonic x 3.
--   Potent Healing Tonic x 2.
--   Lull Elixir x 2.
--   Rough Emerald x 3.
+-   Healing Tonic x 3
+-   Potent Healing Tonic x 2
+-   Lull Elixir x 2
+-   Rough Emerald x 3

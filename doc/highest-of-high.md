@@ -48,25 +48,25 @@ case Óengus is low on HP, bring in Golem to fight alongside Aurora.
 
 Notable loots:
 
--   Potent Healing Tonic x 5.
--   Unstoppable Elixir x 8.
--   Defense Elixir x 5.
--   Magic Defense Elixir x 6.
--   Potent Magic Potion x 7.
--   Lull Elixir x 5.
--   MP Stardust.
--   Magic Stardust.
--   Dodge Stardust.
--   HP Stardust.
--   Strength Stardust.
--   Rough Ruby x 7.
--   Tumbled Ruby x 3.
--   Rough Sapphire x 12.
--   Tumbled Sapphire x 4.
--   Rough Emerald x 8.
--   Tumbled Emerald x 4.
--   Rough Tourmaline x 2.
--   Rough Citrine.
+-   Potent Healing Tonic x 5
+-   Unstoppable Elixir x 8
+-   Defense Elixir x 5
+-   Magic Defense Elixir x 6
+-   Potent Magic Potion x 7
+-   Lull Elixir x 5
+-   MP Stardust
+-   Magic Stardust
+-   Dodge Stardust
+-   HP Stardust
+-   Strength Stardust
+-   Rough Ruby x 7
+-   Tumbled Ruby x 3
+-   Rough Sapphire x 12
+-   Tumbled Sapphire x 4
+-   Rough Emerald x 8
+-   Tumbled Emerald x 4
+-   Rough Tourmaline x 2
+-   Rough Citrine
 -   Tumbled Diamond. Obtained after defeating the area boss.
 
 ## Crepusculum

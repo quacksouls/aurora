@@ -26,7 +26,7 @@ possible until you have to fight the boss.
 
 Notable loots:
 
--   Healing Tonic x 3.
+-   Healing Tonic x 3
 -   Lull Elixir x 2. Decrease the speed of an enemy by 50%, lasting for four
     turns. Later in the game, a new member who has a similar skill would join
     your party. Conserve the Lull Elixir until absolutely necessary and use it
@@ -35,13 +35,13 @@ Notable loots:
     turns. In a later area of the game, a member would join your party who has a
     similar skill. Conserve the Quicken Elixir as much as possible, only using
     it during desperate situations against a boss.
--   Firefly Elixir x 2.
--   HP Stardust.
--   Magic Stardust.
--   Rough Emerald x 3.
--   Tumbled Emerald.
--   Rough Ruby x 4.
--   Rough Sapphire x 4.
+-   Firefly Elixir x 2
+-   HP Stardust
+-   Magic Stardust
+-   Rough Emerald x 3
+-   Tumbled Emerald
+-   Rough Ruby x 4
+-   Rough Sapphire x 4
 
 An enemy you should be wary of is the gargoyle. This enemy has the skill Stony
 Stare that can temporarily paralyze an affected party member. The effect lasts

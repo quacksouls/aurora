@@ -24,29 +24,29 @@ speed of a targeted enemy.
 
 Notable loots:
 
--   Potent Healing Tonic x 8.
--   Magic Potion x 5.
--   Potent Magic Potion x 6.
--   Defense Elixir x 4.
--   Lull Elixir x 11.
--   Quicken Elixir x 8.
--   Revive x 5.
--   Firefly Elixir x 3.
--   Antidote x 4.
--   HP Stardust.
+-   Potent Healing Tonic x 8
+-   Magic Potion x 5
+-   Potent Magic Potion x 6
+-   Defense Elixir x 4
+-   Lull Elixir x 11
+-   Quicken Elixir x 8
+-   Revive x 5
+-   Firefly Elixir x 3
+-   Antidote x 4
+-   HP Stardust
 -   Defense Stardust x 2. One is obtained after defeating the Giant Boulder.
--   Magic Stardust.
--   Strength Stardust.
+-   Magic Stardust
+-   Strength Stardust
 -   Rough Ruby x 4. Craft a Faceted Ruby and equip it in the armour slot of
-    Aurora to boost her fire defense.
--   Tumbled Ruby.
--   Rough Emerald x 7.
+    Aurora to boost her fire defense
+-   Tumbled Ruby
+-   Rough Emerald x 7
 -   Rough Sapphire x 20. Six are gifted by the Lone Capilli, who is found near
     the end of the area. Use these to craft a Brilliant Sapphire and equip it in
     the weapon slot of Golem or another party member.
--   Tumbled Sapphire x 5.
--   Rough Amethyst x 2.
--   Rough Tourmaline.
+-   Tumbled Sapphire x 5
+-   Rough Amethyst x 2
+-   Rough Tourmaline
 
 Most enemies in this area are weak against fire. Equip at least a Faceted Ruby
 in the weapon slots of Aurora and Golem, if you have him, or a Faceted Ruby in

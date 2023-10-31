@@ -19,15 +19,15 @@ travel to the next area and search for the pig Achilles.
 
 Notable loots:
 
--   Healing Tonic x 2.
--   Magic Potion.
--   Revive x 2.
--   Antidote x 2.
--   Magic Stardust.
--   Magic Defense Stardust x 2.
--   Rough Emerald x 5.
--   Rough Sapphire x 3.
--   Rough Ruby x 2.
+-   Healing Tonic x 2
+-   Magic Potion
+-   Revive x 2
+-   Antidote x 2
+-   Magic Stardust
+-   Magic Defense Stardust x 2
+-   Rough Emerald x 5
+-   Rough Sapphire x 3
+-   Rough Ruby x 2
 
 Enemies in this area are weak against fire. Equip at least a Faceted Ruby in one
 party member's weapon slot to add fire defense to melee attack. You might want

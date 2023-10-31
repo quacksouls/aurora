@@ -18,8 +18,8 @@ grants Aurora 10% chance to counterattack upon taking damage from an enemy.
 
 Notable loots:
 
--   Rough Ruby x 2.
--   Firefly Elixir.
+-   Rough Ruby x 2
+-   Firefly Elixir
 -   Magic Stardust. Obtained upon defeating the area boss. Permanently increases
     the magic attack of a member by three points.
 

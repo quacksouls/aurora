@@ -49,25 +49,25 @@ possible.
 
 Notable loots:
 
--   Defense Elixir x 2.
--   Damage Elixir x 2.
--   Magic Defense Elixir x 3.
--   Magic Potion.
--   Potent Magic Potion x 5.
--   Faery Nectar x 3.
--   Potent Faery Nectar.
--   Revive.
--   Quicken Elixir x 3.
--   Damage Elixir x 3.
--   Defense Stardust.
--   Magic Defense Stardust.
+-   Defense Elixir x 2
+-   Damage Elixir x 2
+-   Magic Defense Elixir x 3
+-   Magic Potion
+-   Potent Magic Potion x 5
+-   Faery Nectar x 3
+-   Potent Faery Nectar
+-   Revive
+-   Quicken Elixir x 3
+-   Damage Elixir x 3
+-   Defense Stardust
+-   Magic Defense Stardust
 -   Speed Stardust. Obtained after defeating the area boss.
--   Rough Sapphire x 6.
--   Tumbled Sapphire x 3.
--   Rough Emerald x 5.
--   Tumbled Emerald.
--   Rough Ruby.
--   Rough Amethyst.
+-   Rough Sapphire x 6
+-   Tumbled Sapphire x 3
+-   Rough Emerald x 5
+-   Tumbled Emerald
+-   Rough Ruby
+-   Rough Amethyst
 
 ## Giant Griffon
 

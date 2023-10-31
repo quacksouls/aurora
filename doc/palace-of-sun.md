@@ -9,25 +9,25 @@ should be used to unlock Haste level 3.
 
 Notable loots:
 
--   Faery Nectar x 8.
--   Potent Faery Nectar x 4.
--   Quicken Elixir x 4.
--   Unstoppable Elixir x 6.
--   Defense Elixir x 2.
--   Damage Elixir x 3.
--   Revive x 3.
--   Firefly Elixir x 2.
--   Magic Stardust.
--   Critical Hit Stardust.
--   Strength Stardust.
--   Rough Ruby x 6.
--   Tumbled Ruby x 6.
--   Tumbled Emerald x 3.
--   Tumbled Tourmaline x 2.
--   Rough Citrine x 4.
--   Tumbled Amethyst.
--   Rough Spinel.
--   Rough Onyx x 2.
+-   Faery Nectar x 8
+-   Potent Faery Nectar x 4
+-   Quicken Elixir x 4
+-   Unstoppable Elixir x 6
+-   Defense Elixir x 2
+-   Damage Elixir x 3
+-   Revive x 3
+-   Firefly Elixir x 2
+-   Magic Stardust
+-   Critical Hit Stardust
+-   Strength Stardust
+-   Rough Ruby x 6
+-   Tumbled Ruby x 6
+-   Tumbled Emerald x 3
+-   Tumbled Tourmaline x 2
+-   Rough Citrine x 4
+-   Tumbled Amethyst
+-   Rough Spinel
+-   Rough Onyx x 2
 
 Enemies in this area are weak against lightning, light, and physical attacks.
 You should now have crafted Brilliant versions of most oculi. Equip a Brilliant

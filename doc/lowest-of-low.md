@@ -43,33 +43,33 @@ interact with the White Elemental and be rewarded with Faceted Spinel x 3.
 
 Notable loots:
 
--   Potent Healing Tonic x 3.
--   Faery Nectar x 4.
--   Potent Faery Nectar x 7.
--   Defense Elixir x 4.
--   Magic Defense Elixir x 10.
--   Unstoppable Elixir x 14.
--   Damage Elixir x 6.
--   Antidote x 8.
--   Firefly Elixir x 8.
--   Quicken Elixir x 3.
--   Lull Elixir x 4.
--   Revive x 4.
--   MP Stardust x 2.
--   Strength Stardust.
--   Magic Stardust.
--   Magic Defense Stardust x 2.
--   Critical Hit Stardust.
--   Rough Sapphire x 6.
--   Tumbled Sapphire x 7.
--   Rough Emerald x 8.
--   Tumbled Emerald x 8.
--   Rough Ruby x 4.
--   Tumbled Ruby x 6.
--   Rough Citrine x 4.
--   Rough Tourmaline x 2.
--   Tumbled Tourmaline.
--   Tumbled Amethyst.
+-   Potent Healing Tonic x 3
+-   Faery Nectar x 4
+-   Potent Faery Nectar x 7
+-   Defense Elixir x 4
+-   Magic Defense Elixir x 10
+-   Unstoppable Elixir x 14
+-   Damage Elixir x 6
+-   Antidote x 8
+-   Firefly Elixir x 8
+-   Quicken Elixir x 3
+-   Lull Elixir x 4
+-   Revive x 4
+-   MP Stardust x 2
+-   Strength Stardust
+-   Magic Stardust
+-   Magic Defense Stardust x 2
+-   Critical Hit Stardust
+-   Rough Sapphire x 6
+-   Tumbled Sapphire x 7
+-   Rough Emerald x 8
+-   Tumbled Emerald x 8
+-   Rough Ruby x 4
+-   Tumbled Ruby x 6
+-   Rough Citrine x 4
+-   Rough Tourmaline x 2
+-   Tumbled Tourmaline
+-   Tumbled Amethyst
 -   Tumbled Onyx x 6. Obtained from completing the Cynbel's Secret quest line.
 
 ## Giant Boar

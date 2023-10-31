@@ -34,10 +34,10 @@ Notable loots:
     three points.
 -   Defense Stardust x 2. Permanently increases the defense of a party member by
     three points.
--   Firefly Elixir x 2.
--   Rough Sapphire x 4.
--   Rough Emerald x 5.
--   Rough Ruby x 3.
+-   Firefly Elixir x 2
+-   Rough Sapphire x 4
+-   Rough Emerald x 5
+-   Rough Ruby x 3
 
 ## Ogre
 

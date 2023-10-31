@@ -27,14 +27,14 @@ can significantly reduce the speed of a powerful enemy.
 
 Notable loots:
 
--   Magic Potion x 3.
--   Healing Tonic x 2.
--   Revive.
+-   Magic Potion x 3
+-   Healing Tonic x 2
+-   Revive
 -   Antidote. Removes all status ailments inflicted by enemies. Whenever
     possible, you should use Rubella to cast Ailment Protection.
 -   Defense Stardust. Obtained from defeating the Giant Bird.
--   Rough Emerald x 5.
--   Rough Ruby.
+-   Rough Emerald x 5
+-   Rough Ruby
 
 The most powerful enemy in this area is the griffon. It shouldn't pose much of a
 threat provided you use Igniculus to slow it down while you concentrate on

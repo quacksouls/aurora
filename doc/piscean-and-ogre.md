@@ -23,28 +23,28 @@ case most of your party members are dead or low on HP.
 
 Notable loots:
 
--   Faery Nectar x 3.
--   Potent Magic Potion x 6.
--   Revive x 5.
--   Unstoppable Elixir x 6.
--   Unstoppable Elixir (All) x 2.
--   Damage Elixir x 3.
--   Quicken Elixir x 3.
--   Antidote x 3.
--   Defense Elixir x 3.
--   Speed Stardust.
--   Strength Stardust.
--   Defense Stardust.
--   Magic Defense Stardust.
--   Dodge Stardust.
--   Rough Emerald x 4.
--   Tumbled Emerald x 2.
--   Rough Sapphire x 7.
--   Tumbled Sapphire x 6.
--   Rough Ruby x 3.
--   Tumbled Amethyst.
--   Rough Tourmaline.
--   Tumbled Citrine.
+-   Faery Nectar x 3
+-   Potent Magic Potion x 6
+-   Revive x 5
+-   Unstoppable Elixir x 6
+-   Unstoppable Elixir (All) x 2
+-   Damage Elixir x 3
+-   Quicken Elixir x 3
+-   Antidote x 3
+-   Defense Elixir x 3
+-   Speed Stardust
+-   Strength Stardust
+-   Defense Stardust
+-   Magic Defense Stardust
+-   Dodge Stardust
+-   Rough Emerald x 4
+-   Tumbled Emerald x 2
+-   Rough Sapphire x 7
+-   Tumbled Sapphire x 6
+-   Rough Ruby x 3
+-   Tumbled Amethyst
+-   Rough Tourmaline
+-   Tumbled Citrine
 -   Tumbled Onyx. Obtained from defeating the area boss.
 
 Enemies in this area are weak against water, melee attack, and Aurora's light

@@ -34,27 +34,27 @@ lying around.
 Notable loots:
 
 -   Faery Nectar x 7. Restore 50% HP and 50% MP.
--   Magic Potion x 2.
--   Potent Magic Potion x 3.
--   Potent Healing Tonic x 7.
--   Firefly Elixir x 4.
+-   Magic Potion x 2
+-   Potent Magic Potion x 3
+-   Potent Healing Tonic x 7
+-   Firefly Elixir x 4
 -   Damage Elixir x 4. Increase by 30% the damage output of an ally for five
     turns.
--   Quicken Elixir x 3.
--   Lull Elixir x 5.
--   Magic Defense Elixir x 5.
--   Revive x 2.
--   HP Stardust.
+-   Quicken Elixir x 3
+-   Lull Elixir x 5
+-   Magic Defense Elixir x 5
+-   Revive x 2
+-   HP Stardust
 -   Magic Stardust x 2. Obtained by completing Bolmus' quest line.
--   Magic Defense Stardust.
--   Strength Stardust.
--   Defense Stardust.
+-   Magic Defense Stardust
+-   Strength Stardust
+-   Defense Stardust
 -   Dodge Stardust. Obtained after defeating the Giant Spider.
--   Rough Emerald x 4.
--   Tumbled Emerald x 4.
--   Rough Ruby x 3.
--   Tumbled Ruby.
--   Rough Sapphire x 4.
+-   Rough Emerald x 4
+-   Tumbled Emerald x 4
+-   Rough Ruby x 3
+-   Tumbled Ruby
+-   Rough Sapphire x 4
 -   Rough Amethyst x 2. One is obtained after defeating a group of spiders.
 -   Rough Tourmaline. Obtained from defeating a group of spiders.
 -   Rough Citrine. Obtained from defeating one group of spiders.
