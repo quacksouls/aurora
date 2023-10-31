@@ -16,3 +16,4 @@
 - [The Highest of the High](doc/highest-of-high.md)
 - [The Piscean and the Ogre](doc/piscean-and-ogre.md)
 - [The Lowest of the Low](doc/lowest-of-low.md)
+- [The Palace of the Sun](doc/palace-of-sun.md)
