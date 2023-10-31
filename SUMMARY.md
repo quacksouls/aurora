@@ -7,3 +7,4 @@
 - [The Queen of Light](doc/queen-of-light.md)
 - [Into the West](doc/into-the-west.md)
 - [The Tree of Thorns](doc/tree-of-thorns.md)
+- [The Deep Dark Well](doc/deep-dark-well.md)
