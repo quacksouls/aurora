@@ -10,3 +10,4 @@
 - [The Deep Dark Well](doc/deep-dark-well.md)
 - [Capilli Village](doc/capilli-village.md)
 - [An Unexpected Reunion](doc/unexpected-reunion.md)
+- [Of Mice and Magna](doc/mice-and-magna.md)
