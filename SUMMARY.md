@@ -17,3 +17,4 @@
 - [The Piscean and the Ogre](doc/piscean-and-ogre.md)
 - [The Lowest of the Low](doc/lowest-of-low.md)
 - [The Palace of the Sun](doc/palace-of-sun.md)
+- [Showdown against Umbra](doc/umbra.md)
