@@ -12,3 +12,4 @@
 - [An Unexpected Reunion](doc/unexpected-reunion.md)
 - [Of Mice and Magna](doc/mice-and-magna.md)
 - [Capilli and Adolphus quest lines](doc/capilli-adolphus.md)
+- [The Duke and the Duchess](doc/duke-duchess.md)
