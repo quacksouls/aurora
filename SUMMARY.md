@@ -9,3 +9,4 @@
 - [The Tree of Thorns](doc/tree-of-thorns.md)
 - [The Deep Dark Well](doc/deep-dark-well.md)
 - [Capilli Village](doc/capilli-village.md)
+- [An Unexpected Reunion](doc/unexpected-reunion.md)
