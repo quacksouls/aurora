@@ -11,3 +11,4 @@
 - [Capilli Village](doc/capilli-village.md)
 - [An Unexpected Reunion](doc/unexpected-reunion.md)
 - [Of Mice and Magna](doc/mice-and-magna.md)
+- [Capilli and Adolphus quest lines](doc/capilli-adolphus.md)
