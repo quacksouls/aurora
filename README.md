@@ -1,24 +1,19 @@
-# Project name
+# Walkthrough of Child of Light
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Insert introduction
+Tips, strategies, and routes for a beginner's playthrough of
+[Child of Light](https://store.steampowered.com/app/256290/Child_of_Light/).
+This guide complements the videos here:
 
-<!-- ====================================================================== -->
-
-## Development
-
-We customized various themes:
-
-<!-- prettier-ignore -->
-Insert list of customized themes
+https://www.youtube.com/playlist?list=PL2OiiNZU6nWP4edncotjVZ5EABUVHw6HE
 
 <!-- ====================================================================== -->
 
 ## Acknowledgement
 
 <!-- prettier-ignore -->
-- [HonKit](https://github.com/honkit/honkit) is used to build the tutorial.
+- [HonKit](https://github.com/honkit/honkit) is used to build the guide.
 
 <!-- ====================================================================== -->
 
