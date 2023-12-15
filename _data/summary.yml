@@ -2,7 +2,7 @@
 # generate the site and host under the URL:
 #
 # https://quacksouls.github.io/aurora/
-# prefix: "/aurora"
+prefix: "/aurora"
 
 toc:
 
