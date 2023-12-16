@@ -1,4 +1,6 @@
-# Into the West
+---
+title: Into the West
+---
 
 Your immediate objective here is to recruit Rubella. From here on, most if not
 all battles will be fought against multiple enemies. You need as many members in
@@ -12,7 +14,10 @@ earth defense. For now, use her skill points to get Ailment Protection level 1,
 Ailment Protection (All) level 1, and Tumble level 2. For Aurora, work toward
 acquiring Light Ray level 2.
 
-{% youtube id="Kuh3P6-j2Lg", title="3. Into the West, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="Kuh3P6-j2Lg"
+yt_title="3. Into the West, Child of Light"
+<!-- prettier-ignore-end -->
 
 An enemy you should be careful of is the wolf. It has a skill called Numbing
 Bite that causes a status effect where the affected party member's speed is
@@ -38,6 +43,8 @@ Notable loots:
 -   Rough Sapphire x 4
 -   Rough Emerald x 5
 -   Rough Ruby x 3
+
+<!--=========================================================================-->
 
 ## Ogre
 

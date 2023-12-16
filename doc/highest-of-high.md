@@ -1,11 +1,16 @@
-# The Highest of the High
+---
+title: The Highest of the High
+---
 
 Norah will now leave your party. In her place, you should use the skills of
 Tristis. Use Tristis' skill points to unlock Haste level 2. From here on, work
 toward getting the highest levels of Ultimate Armor and Unstoppable. Tristis'
 skills will be invaluable against all bosses from now on.
 
-{% youtube id="GjfvgXpn6Uc", title="11. The Highest of the High, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="GjfvgXpn6Uc"
+yt_title="11. The Highest of the High, Child of Light"
+<!-- prettier-ignore-end -->
 
 This is the point where Aurora says goodbye to her friends because she thinks
 that Norah is leading them both home. After entering the door, Aurora won't be
@@ -68,6 +73,8 @@ Notable loots:
 -   Rough Tourmaline x 2
 -   Rough Citrine
 -   Tumbled Diamond. Obtained after defeating the area boss.
+
+<!--=========================================================================-->
 
 ## Crepusculum
 

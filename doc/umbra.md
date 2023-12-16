@@ -1,11 +1,16 @@
-# Showdown against Umbra
+---
+title: Showdown against Umbra
+---
 
 A long cutscene plays and Aurora would then be thrown into the fight against
 Umbra. You can choose to flee from battle and farm enemies to level up some
 more, then fight Umbra when Aurora is a bit stronger. Or you can fight Umbra
 now.
 
-{% youtube id="VHiuEmyJvyk", title="15. Showdown against Umbra, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="VHiuEmyJvyk"
+yt_title="15. Showdown against Umbra, Child of Light"
+<!-- prettier-ignore-end -->
 
 Bring Aurora, Óengus, and Golem to the fight. Equip at least a Faceted Citrine
 in the weapon slot of Aurora to add light damage to her melee attack and equip a

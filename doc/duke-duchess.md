@@ -1,4 +1,6 @@
-# The Duke and the Duchess
+---
+title: The Duke and the Duchess
+---
 
 Use Aurora's skill points to get Elevate Damage, which increases an ally's
 damage output by 25% for four turns. Use Golem's skill points to get at least
@@ -9,7 +11,10 @@ level 2 has 30% chance to paralyze an enemy for four seconds whenever Norah uses
 her melee attack. Use Finn's skill points to get Rage of the Capilli level 2, a
 passive skill that increases the damage of his magic by 20%.
 
-{% youtube id="v3ljSxZzsc0", title="10. The Duke and the Duchess, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="v3ljSxZzsc0"
+yt_title="10. The Duke and the Duchess, Child of Light"
+<!-- prettier-ignore-end -->
 
 Interact with Magna and he would lift Aurora up to the sky, bringing you to the
 next area of the game. This new area can be tricky to explore due to the strong
@@ -68,6 +73,8 @@ Notable loots:
 -   Tumbled Emerald
 -   Rough Ruby
 -   Rough Amethyst
+
+<!--=========================================================================-->
 
 ## Giant Griffon
 

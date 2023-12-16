@@ -1,4 +1,6 @@
-# An Unexpected Reunion
+---
+title: An Unexpected Reunion
+---
 
 Norah will join your party. You don't have to complete any side quests for her
 to be a member of your party. Simply explore the area and sooner or later you
@@ -13,7 +15,10 @@ seconds. Whatever you do, don't use a Stardust to permanently upgrade her stats.
 In a later part of the game, Norah will leave the party for the rest of the
 playthrough.
 
-{% youtube id="WKZC2fxLc2c", title="7. An Unexpected Reunion, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="WKZC2fxLc2c"
+yt_title="7. An Unexpected Reunion, Child of Light"
+<!-- prettier-ignore-end -->
 
 Use Norah's skill points to acquire at least Unstoppable level 1 and Charm Time
 level 1. Unstoppable level 1 protects a party member from interruption for four
@@ -59,6 +64,8 @@ You should have picked up a side quest from a Capilli maiden. To advance her
 quest line, search for Achilles the flying pig. Achilles is found in the area
 where you collect a Strength Stardust. The area is guarded by a tripod archer.
 Defeat the archer first, then attempt to grab Achilles.
+
+<!--=========================================================================-->
 
 ## Giant Boulder
 

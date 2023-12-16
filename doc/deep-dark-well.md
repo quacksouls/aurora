@@ -1,10 +1,15 @@
-# The Deep Dark Well
+---
+title: The Deep Dark Well
+---
 
 If you have Golem in your party, use his skill points to get Smash level 2 as
 quickly as possible. Golem has a passive skill where his melee attack has a
 chance to knock an enemy back on the timeline.
 
-{% youtube id="1P_W2NPLYQA", title="5. The Deep Dark Well, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="1P_W2NPLYQA"
+yt_title="5. The Deep Dark Well, Child of Light"
+<!-- prettier-ignore-end -->
 
 In this area, you will recruit Finn to your party. Finn is a magic caster and
 his skills will be useful during later areas of the game. His melee attack isn't
@@ -59,6 +64,8 @@ boss deals three types of elemental damage: fire, water, and earth. You can only
 protect Finn against one of these elemental damage. Equip at least a Faceted
 Ruby in Finn's armour slot to boost his fire defense. Finn will be relying on
 his magic skills so it doesn't matter which oculi you equip in his weapon slot.
+
+<!--=========================================================================-->
 
 ## Hydra
 

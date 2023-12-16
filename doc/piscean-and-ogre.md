@@ -1,4 +1,6 @@
-# The Piscean and the Ogre
+---
+title: The Piscean and the Ogre
+---
 
 The skill tree of each ally should now be expanded to include level three of
 each skill. Each level three skill requires two skill points to unlock. Use
@@ -8,7 +10,10 @@ Tristis' skill points to get Ultimate Armor (All) level 2. Use Finn's skill
 points to unlock Lightning Strike level 3, which will be especially advantageous
 during a later underwater area.
 
-{% youtube id="cdor_UQch8g", title="12. The Piscean and the Ogre, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="cdor_UQch8g"
+yt_title="12. The Piscean and the Ogre, Child of Light"
+<!-- prettier-ignore-end -->
 
 Near the beginning of the area is a statue with an exclamation mark on its head.
 Interact with the statue to initiate a quest line, called Cynbel's Secret. The
@@ -54,6 +59,8 @@ spectral horse. Have Golem and Óengus ready to fight most of the battles. Auror
 of course should be in all fights. Equip a Faceted or Brilliant Emerald in the
 weapon slot of Óengus and Golem. Equip a Faceted or Brilliant Citrine in the
 weapon slot of Aurora.
+
+<!--=========================================================================-->
 
 ## Giant Ogre
 

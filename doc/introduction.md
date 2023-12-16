@@ -1,4 +1,6 @@
-# Introduction
+---
+title: Introduction
+---
 
 Child of Light has two difficulty settings: casual and expert. There is not much
 difference between these two types of difficulty. The major noticeable
@@ -22,8 +24,7 @@ The following tips apply regardless of the difficulty setting:
    receive experience points even though only two members can be in combat.
 1. Equip oculi to boost the defense, damage output, and other abilities of your
    party. Craft better versions of a particular type of oculi for greater
-   effect. Refer to [this page](https://childoflight.fandom.com/wiki/Oculi) for
-   the effects of oculi.
+   effect. Refer to [this page][oculi] for the effects of oculi.
 1. Hunt for all coffers and stardusts. Coffers contain oculi and potions that
    can temporarily boost various abilities. Using a stardust can permanently
    boost a particular stat. Similar to oculi, you can choose which member of
@@ -41,8 +42,7 @@ The following tips apply regardless of the difficulty setting:
    see a loading screen with the word "Loading", otherwise enemies won't
    respawn. Before proceeding with your farming session, equip a Diamond (Rough,
    Tumbled, Faceted, or Brilliant) in Aurora's armour slot to gain additional XP
-   from an enemy's defeat. Refer to
-   [this page](https://childoflight.fandom.com/wiki/Oculi) for how to craft a
+   from an enemy's defeat. Refer to [this page][oculi] for how to craft a
    Diamond and the percentage bonus XP gain from various types of Diamonds.
 1. There is an option to flee from a battle, including any boss fight. Use this
    option to give you time to equip oculi or fully heal your party.
@@ -98,3 +98,9 @@ The following tips apply regardless of the difficulty setting:
    light-related attacks, Rubella specializes in healing and ailment protection,
    etc. Equip oculi to boost a particular member's specialty and use each
    member's strength to your advantage.
+
+<!--=========================================================================-->
+
+<!-- prettier-ignore-start -->
+[oculi]: https://childoflight.fandom.com/wiki/Oculi
+<!-- prettier-ignore-end -->

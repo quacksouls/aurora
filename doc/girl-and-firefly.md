@@ -1,4 +1,6 @@
-# The Girl and the Firefly
+---
+title: The Girl and the Firefly
+---
 
 In this tutorial portion of the game, you will meet Igniculus and grab Aurora's
 melee weapon. Aurora specializes in light magic, but her sword is also effective
@@ -20,7 +22,10 @@ serve three purposes:
 During combat in a casual playthrough, wishes have the above three effects. In
 expert difficulty, wishes only restore Igniculus' light bar during combat.
 
-{% youtube id="dSsLPRCPqpY", title="1. The Girl and the Firefly, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="dSsLPRCPqpY"
+yt_title="1. The Girl and the Firefly, Child of Light"
+<!-- prettier-ignore-end -->
 
 Take this opportunity to learn the basic of combat in the game. Always start a
 (non-boss) battle with a "Surprise Strike", which gives you the first chance to

@@ -1,4 +1,6 @@
-# Capilli and Adolphus quest lines
+---
+title: Capilli and Adolphus quest lines
+---
 
 Now is a good time to wrap up three quest lines. Travel to Capilli Village and
 locate the studio of the Capilli scholar. Interact with him to give him an apple
@@ -6,7 +8,10 @@ and he would gift you a shovel. Find and interact with the Capilli maiden and
 return Achilles to her. She would gift you HP Stardust x 4. The Capilli maiden's
 quest line is complete.
 
-{% youtube id="OTCgHfu5TT4", title="9. Wrap up Adolphus & Capilli quest lines, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="OTCgHfu5TT4"
+yt_title="9. Wrap up Adolphus & Capilli quest lines, Child of Light"
+<!-- prettier-ignore-end -->
 
 Use the map to travel to the Altar of Mahthildis Forest. From there, locate
 three giant spiders and defeat them all. With the spiders defeated, Avo would

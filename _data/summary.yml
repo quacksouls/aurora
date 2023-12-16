@@ -6,27 +6,35 @@ prefix: "/aurora"
 
 toc:
 
-- title: Lists
-  url: /lists/
-- title: Images
-  url: /image_README/
-  subfolder:
-    - title: Default alignment
-      url: /image_default-align/
-    - title: Left and right alignments
-      url: /image_left-right-align/
-- title: Prompts
-  url: /prompts/
-- title: Code
-  url: /code_README/
-  subfolder:
-    - title: Block quote
-      url: /code_quote/
-    - title: Inline
-      url: /code_inline/
-    - title: Programming language
-      url: /code_program/
-- title: Mathematics
-  url: /mathematics/
-- title: Miscellaneous
-  url: /miscellaneous/
+- title: Introduction
+  url: /introduction/
+- title: The Girl and the Firefly
+  url: /girl-and-firefly/
+- title: The Queen of Light
+  url: /queen-of-light/
+- title: Into the West
+  url: /into-the-west/
+- title: The Tree of Thorns
+  url: /tree-of-thorns/
+- title: The Deep Dark Well
+  url: /deep-dark-well/
+- title: Capilli Village
+  url: /capilli-village/
+- title: An Unexpected Reunion
+  url: /unexpected-reunion/
+- title: Of Mice and Magna
+  url: /mice-and-magna/
+- title: Capilli and Adolphus quest lines
+  url: /capilli-adolphus/
+- title: The Duke and the Duchess
+  url: /duke-duchess/
+- title: The Highest of the High
+  url: /highest-of-high/
+- title: The Piscean and the Ogre
+  url: /piscean-and-ogre/
+- title: The Lowest of the Low
+  url: /lowest-of-low/
+- title: The Palace of the Sun
+  url: /palace-of-sun/
+- title: Showdown against Umbra
+  url: /umbra/

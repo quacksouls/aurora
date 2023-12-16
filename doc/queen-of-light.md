@@ -1,4 +1,6 @@
-# The Queen of Light
+---
+title: The Queen of Light
+---
 
 Your objective in this area is to rescue the Lady of the Forest from her glass
 prison. Enemies in this area are much tougher than those found in the tutorial
@@ -10,7 +12,10 @@ her and initiate battle, thus receiving the first chance at attacking Aurora. Be
 observant of your surrounding and assume that all statues are gargoyles in
 disguise.
 
-{% youtube id="GYm633jR-I8", title="2. The Queen of Light, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="GYm633jR-I8"
+yt_title="2. The Queen of Light, Child of Light"
+<!-- prettier-ignore-end -->
 
 Use Aurora's skill points to work towards upgrading Light Ray. The skill path
 for Light Ray has a passive skill called Counterattack. Counterattack level 1
@@ -22,6 +27,8 @@ Notable loots:
 -   Firefly Elixir
 -   Magic Stardust. Obtained upon defeating the area boss. Permanently increases
     the magic attack of a member by three points.
+
+<!--=========================================================================-->
 
 ## Winged Statues
 

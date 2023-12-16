@@ -1,4 +1,6 @@
-# Of Mice and Magna
+---
+title: Of Mice and Magna
+---
 
 Use Aurora's skill points to get Slash level 2 and Starlight. Use Golem's skill
 points to get Paralyze (All) level 2. This is a melee attack that has 20% chance
@@ -10,7 +12,10 @@ Finn's skill points to obtain Lightning Strike level 2 and Lightning Strike
 (All). Use Rubella's skill points to unlock Heal (All) level 1, which restores
 70 HP to all party members who are fighting.
 
-{% youtube id="gfNVyTTyP0M", title="8. Of Mice and Magna, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="gfNVyTTyP0M"
+yt_title="8. Of Mice and Magna, Child of Light"
+<!-- prettier-ignore-end -->
 
 Most enemies in the area are fire based. A Brilliant Sapphire in the weapon slot
 of Golem or Norah would be beneficial during fights. A Faceted Sapphire should
@@ -83,6 +88,8 @@ Rubella's MP for the fight against the area boss. Consume an Antidote potion
 instead of using Rubella's Ailment Protection. Fight the spiders using Aurora
 and Norah's melee attacks. Defeating one group of spiders would remove one clump
 of cobwebs from Magna's heart.
+
+<!--=========================================================================-->
 
 ## Giant Spider
 

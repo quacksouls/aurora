@@ -1,11 +1,16 @@
-# The Tree of Thorns
+---
+title: The Tree of Thorns
+---
 
 You should now have the Map of Lemuria. The map allows you to quickly travel
 between different areas of the game, particularly useful whenever you need to
 travel to a distant area to complete a quest line. The rapid travel is also
 useful whenever you need to farm enemies to level up.
 
-{% youtube id="gBRRS979M6M", title="4. The Tree of Thorns, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="gBRRS979M6M"
+yt_title="4. The Tree of Thorns, Child of Light"
+<!-- prettier-ignore-end -->
 
 Use Aurora's skill points to obtain Counterattack level 2 and Light Ray (All).
 As for Rubella, use her skill points to get Tumble (All). Enemies in this area
@@ -39,6 +44,8 @@ Notable loots:
 The most powerful enemy in this area is the griffon. It shouldn't pose much of a
 threat provided you use Igniculus to slow it down while you concentrate on
 getting rid of its minions.
+
+<!--=========================================================================-->
 
 ## Giant Bird
 

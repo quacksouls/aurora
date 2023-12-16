@@ -1,11 +1,16 @@
-# The Palace of the Sun
+---
+title: The Palace of the Sun
+---
 
 Use Aurora's skill points to unlock Light Ray (All) level 3. Invest Golem's
 skill points in Shock level 3, Bump Back level 3, and Shock (All) level 3. Use
 Óengus' skill points to obtain Kiss of Death level 3. Tristis' skill points
 should be used to unlock Haste level 3.
 
-{% youtube id="h8ti-tHu4BA", title="14. The Palace of the Sun, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="h8ti-tHu4BA"
+yt_title="14. The Palace of the Sun, Child of Light"
+<!-- prettier-ignore-end -->
 
 Notable loots:
 
@@ -51,6 +56,8 @@ Ignore all treasures for the moment. Open the path and travel upward through a
 tunnel, but don't enter the boss arena. Stop at the platform that has three
 treasure chests and a wishes plant. It's now safe to enter the theatre again to
 collect all treasures.
+
+<!--=========================================================================-->
 
 ## Nox
 

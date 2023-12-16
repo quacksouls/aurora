@@ -1,4 +1,6 @@
-# The Lowest of the Low
+---
+title: The Lowest of the Low
+---
 
 Use Aurora's skill points to get Counterattack level 3, a passive skill that
 grants Aurora 30% chance to counterattack after taking damage from an enemy. Use
@@ -9,7 +11,10 @@ in Rage of the Capilli level 3 and Lightning Strike (All) level 3. As for
 Rubella, use her skill points to unlock Heal level 3 and Ailment Protection
 level 3.
 
-{% youtube id="y18nAAUO7lI", title="13. The Lowest of the Low, Child of Light" %}{% endyoutube %}
+<!-- prettier-ignore-start -->
+yt_id="y18nAAUO7lI"
+yt_title="13. The Lowest of the Low, Child of Light"
+<!-- prettier-ignore-end -->
 
 This is an underwater area, where most enemies deal water-based damage. Equip a
 Brilliant Sapphire in the armour slot of Aurora, Óengus, and Golem. Equip a
@@ -72,6 +77,8 @@ Notable loots:
 -   Tumbled Amethyst
 -   Tumbled Onyx x 6. Obtained from completing the Cynbel's Secret quest line.
 
+<!--=========================================================================-->
+
 ## Giant Boar
 
 The dark Giant Boar is accompanied by two spectral horses. Start the fight by
@@ -80,6 +87,8 @@ Aurora consume an Unstoppable Elixir and cast Elevate Damage on herself. Use
 Óengus and Aurora's melee attacks to target multiple enemies at once, getting
 rid of the spectral horses as soon as possible. Finally, use Aurora's Light Ray
 to finish off the dark Giant Boar.
+
+<!--=========================================================================-->
 
 ## Giant Bird
 
@@ -92,6 +101,8 @@ an Unstoppable Elixir and cast Elevate Damage on herself. Use Aurora and Óengus
 melee attacks to target multiple enemies, then focus on the fire Giant Bird.
 Finn's skill Monsoon is effective against the fire bird, but you should conserve
 his MP for another boss fight.
+
+<!--=========================================================================-->
 
 ## Giant Fish
 
